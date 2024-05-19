@@ -12,3 +12,16 @@ C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.Form
 C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacGUI\bin\Debug\BoardLogic.dll
 C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacGUI\bin\Debug\BoardLogic.pdb
 C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.csproj.CopyComplete
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\bin\Debug\TicTacGUI.exe.config
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\bin\Debug\TicTacGUI.exe
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\bin\Debug\TicTacGUI.pdb
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\bin\Debug\BoardLogic.dll
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\bin\Debug\BoardLogic.pdb
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.csproj.AssemblyReference.cache
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.Form1.resources
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.Properties.Resources.resources
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.csproj.GenerateResource.cache
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.csproj.CoreCompileInputs.cache
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.csproj.Up2Date
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.exe
+C:\Users\kemal-noadmin\source\repos\TicTacToe\TicTacToe\TicTacGUI\obj\Debug\TicTacGUI.pdb
