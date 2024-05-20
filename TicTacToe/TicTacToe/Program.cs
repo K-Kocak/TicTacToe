@@ -1,16 +1,13 @@
 ﻿using BoardLogic;
-using System;
-
 namespace TicTacToe
 {
+    // dead code, doesn't do anything now that TicTacGUI is here.
+    // originally wrote stuff to the little cmd prompt looking window.
     class Program
     {
         static Board game = new Board();
         static void Main(string[] args)
         {
-
-            
-
             int userTurn = -1;
             int computerTurn = -1;
             Random rand = new Random();
@@ -38,13 +35,14 @@ namespace TicTacToe
                 {
                     break;
                 }
-                printBoard();
+                //printBoard();
             }
             Console.WriteLine($"Player {game.checkForWinner()} won");
             Console.ReadLine();
 
         }
         
+        // dead code now
         private static void printBoard()
         {
             for (int i = 0; i < game.Grid.Length; i++)
@@ -64,9 +62,7 @@ namespace TicTacToe
                 else
                 {
                     Console.Write("O");
-                }
-                
-                
+                }               
             }
             Console.WriteLine("\n--------------------");
         }
